@@ -53,7 +53,17 @@
 
 ➡️ [more blog posts...](https://dev.to/hdemiray)
 
+<br />
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/channel/UCmwf-fHIlCZWG0RCol7KP5A?view_as=subscriber)
 
 [website]: https://www.halildemiray.com
 [youtube]: https://www.youtube.com/channel/UCmwf-fHIlCZWG0RCol7KP5A?view_as=subscriber
