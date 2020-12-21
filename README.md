@@ -10,7 +10,7 @@
 
 <br />
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dshalil)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&count={count})
 
 ### Connect with me:
 
@@ -20,11 +20,7 @@
 [<img align="left" alt="Halil Demiray | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="halildemiray.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-
-<br />
-
 ---
-<br />
 
 ### Languages and Tools:
 
