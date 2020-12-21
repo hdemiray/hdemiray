@@ -10,7 +10,7 @@
 
 <br />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&count={count})
+![My Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil)
 
 ### Connect with me:
 
