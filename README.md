@@ -9,7 +9,7 @@
 - 🎧 Fun fact: I love to listen music esspecially kpop groups (like --> Dreamcatcher, CLC, Bvndit)
 
 <br />
-![My Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&count={2})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&width={300})
 
 ### Connect with me:
 
