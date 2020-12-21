@@ -8,8 +8,6 @@
 - ⚡ 2021 Goals: Contribute more to Open Source projects
 - 🎧 Fun fact: I love to listen music esspecially kpop groups (like --> Dreamcatcher, CLC, Bvndit)
 
----
-
 <br />
 
 ### Connect with me:
