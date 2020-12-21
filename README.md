@@ -18,6 +18,7 @@
 [<img align="left" alt="halildemiray.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
