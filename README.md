@@ -8,6 +8,9 @@
 - ⚡ 2021 Goals: Contribute more to Open Source projects
 - 🎧 Fun fact: I love to listen music esspecially kpop groups (like --> Dreamcatcher, CLC, Bvndit)
 
+<br />
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dshalil)
 
 ### Connect with me:
 
@@ -21,6 +24,7 @@
 <br />
 
 ---
+<br />
 
 ### Languages and Tools:
 
