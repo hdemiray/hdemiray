@@ -8,6 +8,8 @@
 - ⚡ 2021 Goals: Contribute more to Open Source projects
 - 🎧 Fun fact: I love to listen music esspecially kpop groups (like --> Dreamcatcher, CLC, Bvndit)
 
+---
+
 <br />
 
 ### Connect with me:
@@ -19,6 +21,7 @@
 [<img align="left" alt="halildemiray.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
+
 ---
 
 ### Languages and Tools:
@@ -38,6 +41,7 @@
 
 
 ---
+
 <br />
 
 ### 📕 Latest Blog Posts
