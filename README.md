@@ -44,7 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Asp.Net Web Servis Giriş Rest-Ful Web Api](https://dev.to/hdemiray/asp-net-web-servis-giris-rest-ful-web-api-445d)
+- [C# MVC Bundle Config İle Minify İşlemleri](https://dev.to/hdemiray/c-mvc-bundle-config-i-le-minify-i-slemleri-31oh)
+- [C# Anti Forgery Token](https://dev.to/hdemiray/c-anti-forgery-token-2h9f)
+- [Abstract Classes / Abstract Sınıflar](https://dev.to/hdemiray/abstract-classes-abstract-siniflar-maj)
+- [C# Access Modifiers Private, Public, Internal, Protected Nedir ? / Erişim Bildirgeçleri](https://dev.to/hdemiray/c-access-modifiers-private-public-internal-protected-nedir-erisim-bildirgecleri-4lmo)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/hdemiray)
