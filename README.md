@@ -60,7 +60,10 @@
 
 
 ### 🎧 Spotify Activity
-![Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&width=600)
+
+<br />
+
+![Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&width=900)
 
 <!-- <img align="left" alt="Halil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hdemiray&show_icons=true&hide_border=true" /> -->
 
