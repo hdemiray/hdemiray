@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8a0b9efa9b07462fb3d368f38db7b923)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/27c8048588504476834767637b4a9eb8)
 
 ### Connect with me:
 
@@ -39,10 +39,10 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />
-<br />
-<br />
+
 
 ---
+<br />
 
 ### 📕 Latest Blog Posts
 
