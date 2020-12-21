@@ -58,7 +58,7 @@
 
 ➡️ [more videos...](https://youtube.com/channel/UCmwf-fHIlCZWG0RCol7KP5A?view_as=subscriber)
 
-![Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil)
+![Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&width=600)
 
 <!-- <img align="left" alt="Halil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hdemiray&show_icons=true&hide_border=true" /> -->
 
