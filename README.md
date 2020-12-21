@@ -9,7 +9,8 @@
 - 🎧 Fun fact: I love to listen music esspecially kpop groups (like --> Dreamcatcher, CLC, Bvndit)
 
 <br />
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&width={300})
+
+![Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil)
 
 ### Connect with me:
 
@@ -19,6 +20,7 @@
 [<img align="left" alt="Halil Demiray | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="halildemiray.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
+<br />
 ---
 
 ### Languages and Tools:
