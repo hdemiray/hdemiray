@@ -17,6 +17,8 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,14 +44,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Nedir? Library Nedir? Farkları Nelerdir?](https://dev.to/hdemiray/framework-ve-library-nedir-farklari-nelerdir-2k0f)
-- [Asp.Net Web Servisler | Rest-Ful Web Api Giriş](https://dev.to/hdemiray/asp-net-web-servis-giris-rest-ful-web-api-445d)
-- [C# Access Modifiers | Erişim Bildirgeçleri](https://dev.to/hdemiray/c-access-modifiers-private-public-internal-protected-nedir-erisim-bildirgecleri-4lmo)
-- [IoC - Inversion Of Control](https://dev.to/hdemiray/ioc-inversion-of-control-container-1p6d)
-- [SOLID Principles | SOLID Programlama Prensipleri](https://dev.to/hdemiray/solid-programlama-prensipleri-solid-principles-4bdg)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.halildemiray.com)
+➡️ [more blog posts...](https://dev.to/hdemiray)
 
 
 
