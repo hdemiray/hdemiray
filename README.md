@@ -50,6 +50,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [C# Generic Sınıflara Giriş - 1](https://www.youtube.com/watch?v=QVZbGdQbFAw)
 - [Macosa Sqlite Kurma ve Kullanma | Mac OSX te SQLite3 İçin Görsel Yönetim Programı (Sqlite Studio)](https://www.youtube.com/watch?v=_R2W-1OiBJ4)
 <!-- YOUTUBE:END -->
 
