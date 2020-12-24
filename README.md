@@ -34,7 +34,7 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts   📕
 
 <!-- BLOG-POST-LIST:START -->
 - [C# İle Generic Sınıflara Giriş](https://dev.to/hdemiray/c-i-le-generic-siniflara-giris-32o)
@@ -48,7 +48,7 @@
 
 <br />
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos 📺
 
 <!-- YOUTUBE:START -->
 - [C# Generic Sınıflara Giriş - 1](https://www.youtube.com/watch?v=QVZbGdQbFAw)
