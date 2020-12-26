@@ -16,6 +16,8 @@
 [<img align="left" alt="Halil Demiray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Halil Demiray | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="halildemiray.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[My-CV](https://www.docdroid.net/O3H17le/mycv-pdf)
+
 
 <br />
 <br />
