@@ -71,5 +71,5 @@
 
 [website]: https://www.halildemiray.com
 [youtube]: https://www.youtube.com/channel/UCmwf-fHIlCZWG0RCol7KP5A?view_as=subscriber
-[linkedin]: https://www.linkedin.com/in/halil-demiray-b20755202/
+[linkedin]: https://www.linkedin.com/in/hdemiray
 [instagram]: https://www.instagram.com/hdemiray.co/
