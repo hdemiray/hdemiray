@@ -61,9 +61,7 @@
 
 <br />
 
-### 🎧 Spotify Activity
-
-<br />
+<!-- ### 🎧 Spotify Activity -->
 
 <!-- ![Last Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=ldslhalil&width=990) -->
 
