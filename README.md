@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pair Programming Nedir ? Faydaları Nelerdir ?](https://dev.to/hdemiray/pair-programming-nedir-faydalari-nelerdir-450g)
 - [C# İle Generic Sınıflara Giriş](https://dev.to/hdemiray/c-i-le-generic-siniflara-giris-32o)
 - [Asp.Net Web Servis Giriş Rest-Ful Web Api](https://dev.to/hdemiray/asp-net-web-servis-giris-rest-ful-web-api-445d)
 - [C# MVC Bundle Config İle Minify İşlemleri](https://dev.to/hdemiray/c-mvc-bundle-config-i-le-minify-i-slemleri-31oh)
 - [C# Anti Forgery Token](https://dev.to/hdemiray/c-anti-forgery-token-2h9f)
-- [Abstract Classes / Abstract Sınıflar](https://dev.to/hdemiray/abstract-classes-abstract-siniflar-maj)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/hdemiray)
