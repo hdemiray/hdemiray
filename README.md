@@ -4,8 +4,6 @@
 
 - 🔭 I love doing web projects. Because I love the web !
 - 💪 I’m currently learning .Net Core MVC and Web API
-- 👯 I’m looking to other developer/company projects and contribute them.
-- ⚡ 2021 Goals: Contribute more to Open Source projects
 - 🎧 Fun fact: I love to listen music esspecially kpop groups like --> Dreamcatcher
 
 <br />
