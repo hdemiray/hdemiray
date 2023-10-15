@@ -64,7 +64,7 @@
 
 <!-- <img align="left" alt="Halil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hdemiray&show_icons=true&hide_border=true" /> -->
 
-[website]: https://www.halildemiray.com
+[website]: https://dev.to/hdemiray
 [youtube]: https://www.youtube.com/channel/UCmwf-fHIlCZWG0RCol7KP5A?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/hdemiray
 [instagram]: https://www.instagram.com/hdemiray.co/
