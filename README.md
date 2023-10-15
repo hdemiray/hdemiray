@@ -4,7 +4,6 @@
 
 - 🔭 I love doing web projects. Because I love the web !
 - 💪 I’m currently learning .Net Core MVC and Web API
-- 🎧 Fun fact: I love to listen music esspecially kpop groups like --> Dreamcatcher
 
 <br />
 
